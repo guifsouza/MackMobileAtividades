@@ -1,0 +1,4 @@
+teste do git
+aqui está meu arquivo
+mais uma linha
+ok
