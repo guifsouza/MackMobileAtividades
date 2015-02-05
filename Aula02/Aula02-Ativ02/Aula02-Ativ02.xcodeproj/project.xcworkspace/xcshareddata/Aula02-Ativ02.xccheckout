@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D6FB0236-972C-439E-A6BF-851E626825F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Aula02-Ativ02</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85019A801BC0F0F96FAE8EA0ED1E6ADDB507F1CE</key>
+		<string>https://github.com/guifsouza/MackMobileAtividades.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Aula02/Aula02-Ativ02/Aula02-Ativ02.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85019A801BC0F0F96FAE8EA0ED1E6ADDB507F1CE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guifsouza/MackMobileAtividades.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85019A801BC0F0F96FAE8EA0ED1E6ADDB507F1CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85019A801BC0F0F96FAE8EA0ED1E6ADDB507F1CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>projeto</string>
+		</dict>
+	</array>
+</dict>
+</plist>
