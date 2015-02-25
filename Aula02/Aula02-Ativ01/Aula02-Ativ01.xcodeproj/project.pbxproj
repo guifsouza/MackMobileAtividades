@@ -1,0 +1,251 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		25138A051A8382F100FD0810 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 25138A041A8382F100FD0810 /* main.m */; };
+		25138A0D1A83839800FD0810 /* Funcionario.m in Sources */ = {isa = PBXBuildFile; fileRef = 25138A0C1A83839800FD0810 /* Funcionario.m */; };
+		25138A101A8385F100FD0810 /* Vendedor.m in Sources */ = {isa = PBXBuildFile; fileRef = 25138A0F1A8385F100FD0810 /* Vendedor.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		251389FF1A8382F100FD0810 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		25138A011A8382F100FD0810 /* Aula02-Ativ01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Aula02-Ativ01"; sourceTree = BUILT_PRODUCTS_DIR; };
+		25138A041A8382F100FD0810 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		25138A0B1A83839800FD0810 /* Funcionario.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Funcionario.h; sourceTree = "<group>"; };
+		25138A0C1A83839800FD0810 /* Funcionario.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Funcionario.m; sourceTree = "<group>"; };
+		25138A0E1A8385F100FD0810 /* Vendedor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vendedor.h; sourceTree = "<group>"; };
+		25138A0F1A8385F100FD0810 /* Vendedor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vendedor.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		251389FE1A8382F100FD0810 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		251389F81A8382F100FD0810 = {
+			isa = PBXGroup;
+			children = (
+				25138A031A8382F100FD0810 /* Aula02-Ativ01 */,
+				25138A021A8382F100FD0810 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		25138A021A8382F100FD0810 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				25138A011A8382F100FD0810 /* Aula02-Ativ01 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		25138A031A8382F100FD0810 /* Aula02-Ativ01 */ = {
+			isa = PBXGroup;
+			children = (
+				25138A041A8382F100FD0810 /* main.m */,
+				25138A0B1A83839800FD0810 /* Funcionario.h */,
+				25138A0C1A83839800FD0810 /* Funcionario.m */,
+				25138A0E1A8385F100FD0810 /* Vendedor.h */,
+				25138A0F1A8385F100FD0810 /* Vendedor.m */,
+			);
+			path = "Aula02-Ativ01";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		25138A001A8382F100FD0810 /* Aula02-Ativ01 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 25138A081A8382F100FD0810 /* Build configuration list for PBXNativeTarget "Aula02-Ativ01" */;
+			buildPhases = (
+				251389FD1A8382F100FD0810 /* Sources */,
+				251389FE1A8382F100FD0810 /* Frameworks */,
+				251389FF1A8382F100FD0810 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Aula02-Ativ01";
+			productName = "Aula02-Ativ01";
+			productReference = 25138A011A8382F100FD0810 /* Aula02-Ativ01 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		251389F91A8382F100FD0810 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Guilherme Ferreira de Souza";
+				TargetAttributes = {
+					25138A001A8382F100FD0810 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+				};
+			};
+			buildConfigurationList = 251389FC1A8382F100FD0810 /* Build configuration list for PBXProject "Aula02-Ativ01" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 251389F81A8382F100FD0810;
+			productRefGroup = 25138A021A8382F100FD0810 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				25138A001A8382F100FD0810 /* Aula02-Ativ01 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		251389FD1A8382F100FD0810 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25138A051A8382F100FD0810 /* main.m in Sources */,
+				25138A101A8385F100FD0810 /* Vendedor.m in Sources */,
+				25138A0D1A83839800FD0810 /* Funcionario.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		25138A061A8382F100FD0810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		25138A071A8382F100FD0810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		25138A091A8382F100FD0810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		25138A0A1A8382F100FD0810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		251389FC1A8382F100FD0810 /* Build configuration list for PBXProject "Aula02-Ativ01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25138A061A8382F100FD0810 /* Debug */,
+				25138A071A8382F100FD0810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		25138A081A8382F100FD0810 /* Build configuration list for PBXNativeTarget "Aula02-Ativ01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25138A091A8382F100FD0810 /* Debug */,
+				25138A0A1A8382F100FD0810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 251389F91A8382F100FD0810 /* Project object */;
+}
